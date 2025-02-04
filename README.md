@@ -1,2 +1,2 @@
 # Linera
-Learn Linera
+Learn Linera Blockchain
